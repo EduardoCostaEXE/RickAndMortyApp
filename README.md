@@ -1,0 +1,2 @@
+# RickAndMortyApp
+ Studying with API
