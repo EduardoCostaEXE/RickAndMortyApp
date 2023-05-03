@@ -18,7 +18,7 @@ final class RIMService {
 ///    - Parametros:
 ///      - request: Instancia de requisicão
 ///      - completion: Callback com os dados ou erro
-    public func execute(_ request: RMRequest, completion: @scaping () -> void){
+    public func execute(_ request: RMRequest, completion: @escaping () -> Void){
 
     }
 }
