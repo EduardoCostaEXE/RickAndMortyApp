@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controlador das abas e definicão de seus controladores individuais
 final class RMTabBarController: UITabBarController {
 
     override func viewDidLoad() {
